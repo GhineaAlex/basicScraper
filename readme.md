@@ -31,6 +31,8 @@ Astfel ca o metoda mai buna este rularea unui proces de Node care colecteaza pag
 
 Cu datele salvate in baza de date, acestea pot fi procesate in functie de continut si indexate in functie de numarul de cuvinte cheie gasite. Pot exista imbunatitiri si aici prin adaugarea unui Redis Cache pentru accesul la date mai facil.
 
+De asemenea, identificarea tipurilor de tehnologii de pe un website poate fi realizat folosind codul de HTML, header-urile, script-urile si meta. wappalyzer care este cea mai populara platforma open source realizeaza identificarea tehnologiilor facand regex pe continutul website-ului si cautand cuvinte cheie care ajuta la identificare.
+
 ## Opinia mea despre site
 
 Din punct de vedere tehnic inca nu as putea sa ma pronunt, nu am vazut cum functioneaza, care e arhitectura, cat de eficienta este. Imi place ca vad o cantitate de date semnificativa pe site, in acelasi timp aspectul pe care as vrea sa il mentionez este cantitatea si calitatea informatiei oferite.
