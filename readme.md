@@ -1,4 +1,4 @@
-# Project Title
+# basicScraper
 
 A basic Scraper in NodeJS
 
