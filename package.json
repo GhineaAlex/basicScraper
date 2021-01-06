@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@reallyuseful/phonenumber": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "csv-parser": "^2.3.3",
     "email-crawler": "^1.0.4",
